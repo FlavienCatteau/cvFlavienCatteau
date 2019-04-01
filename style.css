@@ -1,3 +1,22 @@
-#apropos{
-    
+body{
+    background-image: url(assets/img/wallpaper2.jpg);
+    background-attachment: fixed;
+    resize: none;
+}
+
+li{
+    list-style : none
+}
+
+.couleur1{
+    background-color: rgba(201, 208, 198, 1);
+    border-radius: 10px;
+}
+
+.couleur2{
+    background-color: rgba(201, 208, 198, 0.8);
+}
+
+.imgcomp{
+    width: 50px;
 }
